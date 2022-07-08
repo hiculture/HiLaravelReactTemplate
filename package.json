@@ -41,6 +41,6 @@
         "uuidjs": "^4.2.11",
         "webpack-node-externals": "^3.0.0",
         "react-barcode": "^1.4.1",
-        "react-to-print": "^2.14.7",
+        "react-to-print": "^2.14.7"
     }
 }
